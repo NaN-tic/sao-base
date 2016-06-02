@@ -42,6 +42,7 @@
   border-bottom: 1px solid #cce3ea;
 }
 #menu td {
+  font-size: 12px;
   background-color: #f6f8f8;
 }
 #menu .column-char {
@@ -51,8 +52,9 @@
   color: #0097c8;
 }
 #menu img {
-  width: 25px;
-  height: 25px;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
 }
 
 /* btn */
